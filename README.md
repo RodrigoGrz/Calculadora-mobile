@@ -18,7 +18,7 @@
 <br/><a href="https://www.python.org/"nofollow">Python</a>
 
 <h2>Contribuição</h2>
-<p>Podem ficar a vontade para melhorarem, o projeto <strong>não</strong> esta finalizado.</p>
+<p>Podem ficar a vontade para melhorarem.</p>
 
 <h2>Autor</h2>
 <p><strong>Rodrigo Grzegorczyk</strong></p>
